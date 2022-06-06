@@ -15,3 +15,4 @@ Sonuç : O(n^2)
 
 ---
 
+Patika.dev profilim: https://app.patika.dev/sushileaf
